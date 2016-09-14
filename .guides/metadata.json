@@ -1,0 +1,62 @@
+{
+ "sections": [
+  {
+   "id": "b09f3972-e36e-53fa-2cc4-15375918eac5",
+   "title": "Embedded systems",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Embedded-systems-b09f.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c140dfd3-2574-c878-b034-537cd3808850",
+   "title": "What is an embedded system?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-an-embedded-system--c140.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "ff4a94e2-714a-4973-dd9c-65155f692b1b",
+   "title": "The purpose of embedded systems",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/The-purpose-of-embedded-systems-ff4a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "2576ac11-5cab-714c-e607-024d01022ec2",
+   "title": "Summary",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Summary-2576.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "6d2c5554-a1bf-6fb6-72f0-8e6ce39d3552",
+   "title": "Questions",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Questions-6d2c.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

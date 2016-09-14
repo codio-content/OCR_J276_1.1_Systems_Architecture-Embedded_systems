@@ -1,0 +1,1 @@
+In this lesson we will look at embedded systems – what they are, their purpose and examples of their use.
