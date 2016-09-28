@@ -8,19 +8,14 @@
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "An embedded system is a <<<computer>>> system built within a larger device in order to <<<control>>> it. \nAll of the components are on a <<<printed circuit board>>>. \nEmbedded systems are built for a <<<small>>> range of specific tasks unlike laptop computers which are said to be <<<general>>> purpose. \nEmbedded systems are <<<real-time>>> systems because they have to produce an <<<immediate>>> response so that they can <<<react>>> to different situations.\nThe programs used to control them are often written in <<<assembly language>>> so that the <<<hardware>>> components can be directly controlled.\n",
+   "text": "An embedded system is a <<<computer>>> system built within a larger device in order to <<<control>>> it. \nAll of the components are on a <<<printed circuit board>>>. \nEmbedded systems are built for a <<<small>>> range of specific tasks unlike laptop computers which are said to be <<<general>>> purpose. \n",
    "tokens": {
     "blank": [
      "computer",
      "control",
      "printed circuit board",
      "small",
-     "general",
-     "real-time",
-     "immediate",
-     "react",
-     "assembly language",
-     "hardware"
+     "general"
     ],
     "text": [
      "An embedded system is a ",
@@ -33,7 +28,31 @@
      0,
      " range of specific tasks unlike laptop computers which are said to be ",
      0,
-     " purpose. \nEmbedded systems are ",
+     " purpose. \n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2536802872",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Embedded systems are <<<real-time>>> systems because they have to produce an <<<immediate>>> response so that they can <<<react>>> to different situations.\nThe programs used to control them are often written in <<<assembly language>>> so that the <<<hardware>>> components can be directly controlled.\n",
+   "tokens": {
+    "blank": [
+     "real-time",
+     "immediate",
+     "react",
+     "assembly language",
+     "hardware"
+    ],
+    "text": [
+     "Embedded systems are ",
      0,
      " systems because they have to produce an ",
      0,
